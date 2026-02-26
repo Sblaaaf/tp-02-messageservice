@@ -9,6 +9,6 @@ public class ProdMessageService implements MessageService {
 
     @Override
     public String getMessage() {
-        return "🔧 Message prod.";
+        return "Message prod.";
     }
 }
